@@ -39,3 +39,7 @@ ll.insertFirst(100);
 ll.insertFirst(200);
 ll.insertLast(300);
 ll.printListData();
+
+console.log("hi");
+console.log("hii");
+console.log("hiii");
